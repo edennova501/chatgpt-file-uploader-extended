@@ -1,7 +1,7 @@
 {
-  "name": "chatgpt-file-uploader",
+  "name": "File uploader",
   "version": "1.5.1",
-  "description": "ChatGPT File Uploader Extended - Upload various file types to ChatGPT",
+  "description": "File Uploader Extended",
   "license": "MIT",
   "author": "ariburaco",
   "repository": {
